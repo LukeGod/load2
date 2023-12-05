@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="凤凰卫视中文台",CCTV-1
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
